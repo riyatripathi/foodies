@@ -1,0 +1,25 @@
+.spann {
+  color: #daa520;
+  border: 2px solid blue;
+}
+
+.golden-red {
+  color: #daa520 !important;
+}
+
+.foodie-logo {
+  font-size: x-large;
+}
+.navbar-collapse li {
+  margin: 2px 2px;
+  padding: 2px;
+  font-size: large;
+}
+.NavLink {
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  color: #daa520;
+}

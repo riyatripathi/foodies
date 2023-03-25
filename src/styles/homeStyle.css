@@ -1,0 +1,14 @@
+.banner {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.button:hover {
+  color: #daa520 !important;
+}
